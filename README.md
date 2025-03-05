@@ -6,11 +6,11 @@ This project is a Markdown blog built using Next.js, Shadcn and Tailwind CSS .It
 
 Follow the steps below to run the development server:
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
-# or
+or
 bun dev
 
 ### Clone the repository:
